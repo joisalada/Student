@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string name="idLabel">Id</string>
+    <string name="code">Código</string>
+    <string name="name">Nome</string>
+    <string name="email">Email</string>
+    <string name="save">Salvar</string>
+    <string name="deletar">Deletar</string>
+    <string name="Deletar">Deletar</string>
+    <string name="deletar1">Deletar</string>
+</resources>
